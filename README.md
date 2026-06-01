@@ -7,14 +7,14 @@ Removing specific identities from a trained face recognition model
 without retraining the whole system — a growing requirement under
 privacy regulations like GDPR.
 
-## Approach (high level)
+## Approach
 Building on the Linearizer framework of Berman et al. (2025) to expose
 a pre-trained face recognition backbone as a linear operator in a
 learned latent space, then editing that operator to suppress target
 identities.
 
 ## Status
-- Role: Lead contributor (team of 2),
+- Role: Lead contributor (team of 2)
 - Backbones: iResNet50 with ArcFace and AdaFace loss
 - Datasets: MS1MV2 training subset; verification on LFW, CFP-FP,
   AgeDB-30, CALFW, CPLFW
