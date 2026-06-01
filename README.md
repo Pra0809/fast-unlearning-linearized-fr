@@ -35,4 +35,5 @@ with the paper.
 - Foster et al., *Selective Synaptic Dampening*, AAAI 2024
 
 ## Contact
-For details under NDA / academic discussion: prashantchandra142@gmail.com
+For details under NDA / academic discussion: pchandra@mail.uni-paderborn.de
+
