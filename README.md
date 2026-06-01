@@ -63,7 +63,7 @@ At the 50-identity forget scale, the method achieves strong selective forgetting
 ## Status
 
 - 🔬 **Research in progress** — paper in preparation
-- 🔒 **Code** is maintained in the private research group repository [RAIB-group/FastUL_LinearFR](https://github.com/RAIB-group/FastUL_LinearFR); it will be released publicly once the paper is published
+- 🔒 **Code** is maintained in the private research group repository,it will be released publicly once the paper is published
 - 📄 **Detailed report and paper draft** are not shared publicly to preserve research-publication integrity; available under NDA / academic discussion on request
 
 ## Related work
